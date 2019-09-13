@@ -10,7 +10,7 @@ To run this project, simply:
 npm install && npm start
 ```
 
-This project is instead meant to serve as a reference for proper Redux implementation in a React app.
+This project is meant to serve as a reference for proper Redux implementation in a React app.
 
 **NOTES:**
   - This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
